@@ -4,7 +4,7 @@ simple flow chart using mermaid
 
 ```mermaid
 C4Context
-title System Context diagram for Internet Banking System
+title EMIR Regulation
 
 Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
 Person(customerB, "Banking Customer B")
