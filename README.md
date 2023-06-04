@@ -4,6 +4,6 @@ simple flow chart using mermaid
 
 ```mermaid
 graph TD;
-    EMIR Key Requirements-->ClearingObligations;
+    A [EMIR Key Requirements] --> B [Clearing Obligations];
   
 ```
